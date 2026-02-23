@@ -1,0 +1,6 @@
+{
+  "liveServer.settings.multiRootWorkspaceName": "Travel Reservation",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar"
+  ]
+}
